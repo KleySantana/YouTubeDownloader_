@@ -1,7 +1,7 @@
 # YouTube Downloader
 
 
-#### Video Demo: https://youtu.be/gvJBZwKxwaE
+#### Video Demo: (I had a video demo, but it got removed from YouTube due to its policy)
 #### Description:
 This project is a simple command-line YouTube downloader tool written in Python. It allows users to download videos from YouTube and save them locally.
 
@@ -28,7 +28,7 @@ To use the YouTube downloader, you need to have Python installed on your machine
 2. Navigate to the project directory:
 
     ```bash
-    cd youtube-downloader
+    cd YouTubeDownloader_
     ```
 
 3. Install the required dependencies using pip:
