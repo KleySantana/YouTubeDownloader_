@@ -42,7 +42,7 @@ To use the YouTube downloader, you need to have Python installed on your machine
 To download a video from YouTube, run the following command in your terminal:
 
 ```bash
-python downloader.py
+python project.py
 ```
 The tool will prompt you to enter the YouTube video URL and select the desired video resolution. Once you confirm your choices, the download process will begin automatically.
 
